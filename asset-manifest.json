@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CRUD-simple-de-tareas-en-React/static/css/main.e6c13ad2.css",
+    "main.js": "/CRUD-simple-de-tareas-en-React/static/js/main.24c23de7.js",
+    "index.html": "/CRUD-simple-de-tareas-en-React/index.html",
+    "main.e6c13ad2.css.map": "/CRUD-simple-de-tareas-en-React/static/css/main.e6c13ad2.css.map",
+    "main.24c23de7.js.map": "/CRUD-simple-de-tareas-en-React/static/js/main.24c23de7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.24c23de7.js"
+  ]
+}
