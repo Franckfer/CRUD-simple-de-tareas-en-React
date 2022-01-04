@@ -1,10 +1,10 @@
 # Crud simple de tareas con React
 
-Pagina echa en React donde podemos crear, editar o borrar notas o tareas, poniendo en practica los Hooks(useState), Bootstrap \
+Pagina echa en React donde podemos crear, editar o borrar notas o tareas, poniendo en practica los Hooks(useState), Bootstrap 
 y la libreria shortid, con pequeñas validaciones en un formulario.
 
 
-ver pagina [aquí](https://crud-de-tareas-en-react.netlify.app/)
+ver pagina en este [link](https://crud-de-tareas-en-react.netlify.app/)
 
 ## Vista previa
 
