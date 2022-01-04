@@ -6,7 +6,9 @@ y la libreria shortid, con pequeñas validaciones en un formulario.
 
 ver pagina [aquí](https://crud-de-tareas-en-react.netlify.app/)
 
+## Vista previa
 
+![prev img](https://github.com/Franckfer/CRUD-simple-de-tareas-en-React/blob/master/public/img/crud-tareas.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
